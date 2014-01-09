@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Day2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_str">我是标题</string>
+    <string name="username_str">用户名</string>
+    <string name="nickname_str">昵称</string>
+    <string name="password_str">密码</string>
+    <string name="password_again_str">重复密码</string>
+    <string name="person_info_str">个人简介</string>
+    <string name="please_username">请输入用户名</string>
+    <string name="sure_str">确定</string>
+   
+
+</resources>
